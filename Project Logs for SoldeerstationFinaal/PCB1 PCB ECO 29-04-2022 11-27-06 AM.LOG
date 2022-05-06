@@ -1,0 +1,39 @@
+Remove Class Member: Failed to remove class member
+Change Component Designator: OldDesignator=C1 NewDesignator=C50
+Change Component Designator: OldDesignator=D? NewDesignator=D10
+Change Component Designator: OldDesignator=IC? NewDesignator=IC5
+Change Component Designator: OldDesignator=K1 NewDesignator=K?
+Change Component Designator: OldDesignator=L1 NewDesignator=L7
+Change Net Name : Old Net Name=Netb2_2 New Net Name=Netb1_3
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC50_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC50_2
+Change Net Name : Old Net Name=NetIC?_1 New Net Name=NetIC5_1
+Change Net Name : Old Net Name=NetIC?_2 New Net Name=NetIC5_2
+Change Net Name : Old Net Name=NetIC?_7 New Net Name=NetIC5_7
+Change Net Name : Old Net Name=NetIC?_8 New Net Name=NetIC5_8
+Change Net Name : Old Net Name=NetIC?_12 New Net Name=NetIC5_12
+Change Net Name : Old Net Name=NetIC?_13 New Net Name=NetIC5_13
+Change Net Name : Old Net Name=NetIC?_14 New Net Name=NetIC5_14
+Change Net Name : Old Net Name=NetIC?_15 New Net Name=NetIC5_15
+Change Net Name : Old Net Name=NetIC?_16 New Net Name=NetIC5_16
+Change Net Name : Old Net Name=NetIC?_19 New Net Name=NetIC5_19
+Change Net Name : Old Net Name=NetIC?_20 New Net Name=NetIC5_20
+Change Net Name : Old Net Name=NetIC?_21 New Net Name=NetIC5_21
+Change Net Name : Old Net Name=NetIC?_22 New Net Name=NetIC5_22
+Change Net Name : Old Net Name=NetIC?_23 New Net Name=NetIC5_23
+Change Net Name : Old Net Name=NetIC?_24 New Net Name=NetIC5_24
+Change Net Name : Old Net Name=NetIC?_27 New Net Name=NetIC5_27
+Change Net Name : Old Net Name=NetIC?_28 New Net Name=NetIC5_28
+Change Net Name : Old Net Name=NetIC?_30 New Net Name=NetIC5_30
+Change Net Name : Old Net Name=NetIC?_33 New Net Name=NetIC5_33
+Change Net Name : Old Net Name=NetIC?_34 New Net Name=NetIC5_34
+Change Net Name : Old Net Name=NetIC?_35 New Net Name=NetIC5_35
+Change Net Name : Old Net Name=NetIC?_36 New Net Name=NetIC5_36
+Added Member To Class: ClassName=deel4 Member=Component C50 keramishecap
+Added Member To Class: ClassName=deel4 Member=Component D10 1N4148
+Added Member To Class: ClassName=deel4 Member=Component IC5 8bitmcu
+Added Member To Class: ClassName=deel2 Member=Component K? RT424005F
+Added Room: Name=deel1
+Added Room: Name=deel2
+Added Room: Name=deel3
+Added Room: Name=deel4

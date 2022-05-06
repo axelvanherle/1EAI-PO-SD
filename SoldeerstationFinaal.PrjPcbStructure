@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=deel1.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=deel1.SchDoc|FileName=deel2.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=deel1.SchDoc|FileName=deel3.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=deel1.SchDoc|FileName=deel4.SchDoc|SheetNumber=4
